@@ -3,7 +3,7 @@
 The program will log you off when the timer goes zero.
 
 
-### requirements:
+### Requirements:
 
 - Python
 
